@@ -1,0 +1,8 @@
+- [x] Implement updated structured field parser + chunk scoring/selection
+- [x] Ensure parser searches all retrieved chunks and never uses first chunk automatically
+- [x] Fix output sources to show only the document actually used
+- [x] Ensure incorrect swapped fields like Crime=DESCRIPTION / Punishment=BNS EQUIVALENT are detected and chunk discarded
+- [x] Run a quick smoke test (streamlit/back-end) to verify formatting and 'No relevant legal information found.'
+
+
+

@@ -1,0 +1,4 @@
+Patched enhanced_rag_engine.py. Next steps:
+- Run smoke test if available (e.g., Smart_Legal_Assistance/smoke_test_retrieval.py)
+- Verify Streamlit UI outputs exact UI formatting.
+

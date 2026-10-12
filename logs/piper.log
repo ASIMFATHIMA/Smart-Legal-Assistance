@@ -1,0 +1,70 @@
+2026-07-12 08:22:44 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 08:22:44 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 08:22:44 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx (0 bytes)
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx.json (0 bytes)
+2026-07-12 08:22:44 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx (0 bytes)', 'Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx.json (0 bytes)']
+2026-07-12 08:26:05 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 08:26:05 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 08:26:05 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx (0 bytes)
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx.json (0 bytes)
+2026-07-12 08:26:05 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx (0 bytes)', 'Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx.json (0 bytes)']
+2026-07-12 08:26:06 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 08:26:06 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 08:26:07 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 08:26:07 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx (0 bytes)
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx.json (0 bytes)
+2026-07-12 08:26:07 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx (0 bytes)', 'Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx.json (0 bytes)']
+2026-07-12 08:26:35 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 08:26:35 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 08:26:35 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx (0 bytes)
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx.json (0 bytes)
+2026-07-12 08:26:35 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx (0 bytes)', 'Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx.json (0 bytes)']
+2026-07-12 08:38:48 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 08:38:48 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 08:38:48 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx (0 bytes)
+Too small: D:\SLA\piper\en_US-lessac-medium.onnx.json (0 bytes)
+2026-07-12 08:38:48 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx (0 bytes)', 'Too small: D:\\SLA\\piper\\en_US-lessac-medium.onnx.json (0 bytes)']

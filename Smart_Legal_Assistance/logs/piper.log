@@ -1,0 +1,379 @@
+2026-07-12 09:08:31 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 09:08:31 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 09:08:31 [WARNING] piper – ⚠ Voice model is invalid.
+Please download the official Piper voice again.
+
+Too small: D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json (4885 bytes)
+2026-07-12 09:08:31 [INFO] piper – Voice validation failed: ['Too small: D:\\SLA\\Smart_Legal_Assistance\\piper\\en_US-lessac-medium.onnx.json (4885 bytes)']
+2026-07-12 10:52:23 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 10:52:23 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\aa9d7b924c5da590e3dc.wav
+2026-07-12 10:52:23 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\aa9d7b924c5da590e3dc.wav
+2026-07-12 10:52:24 [INFO] piper – Piper return code: 0
+2026-07-12 10:52:24 [INFO] piper – Piper STDOUT:
+D:\SLA\Smart_Legal_Assistance\utils\audio_cache\aa9d7b924c5da590e3dc.wav
+
+2026-07-12 10:52:24 [INFO] piper – Piper STDERR:
+[2026-07-12 10:52:23.906] [piper] [info] Loaded voice in 0.3010143 second(s)
+[2026-07-12 10:52:23.916] [piper] [info] Initialized piper
+[2026-07-12 10:52:24.330] [piper] [info] Real-time factor: 0.09207748203572706 (infer=0.3730871 sec, audio=4.051882086167801 sec)
+[2026-07-12 10:52:24.330] [piper] [info] Terminated piper
+
+2026-07-12 10:54:21 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 10:54:21 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\37322d8eb90d1119e5c9.wav
+2026-07-12 10:54:21 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\37322d8eb90d1119e5c9.wav
+2026-07-12 10:54:22 [INFO] piper – Piper return code: 0
+2026-07-12 10:54:22 [INFO] piper – Piper STDOUT:
+D:\SLA\Smart_Legal_Assistance\utils\audio_cache\37322d8eb90d1119e5c9.wav
+
+2026-07-12 10:54:22 [INFO] piper – Piper STDERR:
+[2026-07-12 10:54:21.846] [piper] [info] Loaded voice in 0.302601 second(s)
+[2026-07-12 10:54:21.857] [piper] [info] Initialized piper
+[2026-07-12 10:54:22.339] [piper] [info] Real-time factor: 0.11785902332261029 (infer=0.4652358 sec, audio=3.947392290249433 sec)
+[2026-07-12 10:54:22.339] [piper] [info] Terminated piper
+
+2026-07-12 10:54:45 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 10:54:45 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 10:54:45 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 10:54:46 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 10:54:46 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 10:54:46 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 10:54:46 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 10:54:46 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 10:57:21 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9d6ce49cd94d77857540.wav
+2026-07-12 10:57:21 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9d6ce49cd94d77857540.wav
+2026-07-12 10:57:22 [INFO] piper – Piper return code: 0
+2026-07-12 10:57:22 [INFO] piper – Piper STDOUT:
+D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9d6ce49cd94d77857540.wav
+
+2026-07-12 10:57:22 [INFO] piper – Piper STDERR:
+[2026-07-12 10:57:22.053] [piper] [info] Loaded voice in 0.3230317 second(s)
+[2026-07-12 10:57:22.073] [piper] [info] Initialized piper
+[2026-07-12 10:57:22.428] [piper] [info] Real-time factor: 0.07969954738451086 (infer=0.2979498 sec, audio=3.7384126984126986 sec)
+[2026-07-12 10:57:22.429] [piper] [info] Terminated piper
+
+2026-07-12 11:04:47 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 11:04:47 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 11:55:31 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 11:56:31 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\af3c951b3267611e51ce.wav
+2026-07-12 11:56:31 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\af3c951b3267611e51ce.wav
+2026-07-12 11:56:32 [INFO] piper – Piper return code: 0
+2026-07-12 11:56:32 [INFO] piper – Piper STDOUT:
+D:\SLA\Smart_Legal_Assistance\utils\audio_cache\af3c951b3267611e51ce.wav
+
+2026-07-12 11:56:32 [INFO] piper – Piper STDERR:
+[2026-07-12 11:56:31.740] [piper] [info] Loaded voice in 0.281936 second(s)
+[2026-07-12 11:56:31.750] [piper] [info] Initialized piper
+[2026-07-12 11:56:32.259] [piper] [info] Real-time factor: 0.10254149050524634 (infer=0.4892973 sec, audio=4.771700680272109 sec)
+[2026-07-12 11:56:32.260] [piper] [info] Terminated piper
+
+2026-07-12 12:45:21 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 12:45:21 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-12 18:35:31 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\fde4c1aa01d5666c9f4a.wav
+2026-07-12 18:35:31 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\fde4c1aa01d5666c9f4a.wav
+2026-07-12 18:35:36 [INFO] piper – Piper return code: 0
+2026-07-12 18:35:36 [INFO] piper – Piper STDOUT:
+D:\SLA\Smart_Legal_Assistance\utils\audio_cache\fde4c1aa01d5666c9f4a.wav
+
+2026-07-12 18:35:36 [INFO] piper – Piper STDERR:
+[2026-07-12 18:35:32.512] [piper] [info] Loaded voice in 0.2499743 second(s)
+[2026-07-12 18:35:32.550] [piper] [info] Initialized piper
+[2026-07-12 18:35:36.567] [piper] [info] Real-time factor: 0.059496655286389255 (infer=0.7812437 sec, audio=13.130884353741497 sec)
+[2026-07-12 18:35:36.567] [piper] [info] Terminated piper
+
+2026-07-14 20:06:16 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-14 20:06:16 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:06:16 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:06:17 [ERROR] piper – Piper subprocess exception – UnicodeEncodeError
+Traceback (most recent call last):
+  File "D:\SLA\Smart_Legal_Assistance\src\text_to_speech.py", line 349, in _run_piper_once
+    result = subprocess.run(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1622, in _communicate
+    self._stdin_write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1143, in _stdin_write
+    self.stdin.write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2696' in position 0: character maps to <undefined>
+
+2026-07-14 20:06:17 [WARNING] piper – ⚠ Voice generation failed. The chatbot will continue normally.
+2026-07-14 20:26:31 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\218e818ffb1a896af827.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\218e818ffb1a896af827.wav
+2026-07-14 20:26:47 [INFO] piper – stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\218e818ffb1a896af827.wav
+
+2026-07-14 20:26:47 [INFO] piper – stderr=[2026-07-14 20:26:34.050] [piper] [info] Loaded voice in 0.9221146 second(s)
+[2026-07-14 20:26:35.828] [piper] [info] Initialized piper
+[2026-07-14 20:26:47.214] [piper] [info] Real-time factor: 0.7572075965073529 (infer=1.0461484 sec, audio=1.3815873015873017 sec)
+[2026-07-14 20:26:47.215] [piper] [info] Terminated piper
+
+2026-07-14 20:26:47 [INFO] piper – return_code=0
+2026-07-14 20:27:26 [WARNING] piper – ⚠ Voice model missing: ONNX file not found for the selected voice.
+2026-07-14 20:27:27 [ERROR] piper – Voice validation failed: voice=English Male errors={'voice_model': 'Missing: D:\\SLA\\Smart_Legal_Assistance\\piper\\en_US-<male>.onnx', 'voice_config': 'Missing: D:\\SLA\\Smart_Legal_Assistance\\piper\\en_US-<male>.onnx.json'}
+2026-07-14 20:36:52 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\a99fdb24ceae43af8da0.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\a99fdb24ceae43af8da0.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-14 20:36:53 [INFO] piper – Piper subprocess return code=0
+2026-07-14 20:36:53 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\a99fdb24ceae43af8da0.wav
+
+2026-07-14 20:36:53 [INFO] piper – Piper stderr=[2026-07-14 20:36:53.276] [piper] [info] Loaded voice in 0.8805861 second(s)
+[2026-07-14 20:36:53.309] [piper] [info] Initialized piper
+[2026-07-14 20:36:53.698] [piper] [info] Real-time factor: 0.34468434082031246 (infer=0.3361493 sec, audio=0.9752380952380952 sec)
+[2026-07-14 20:36:53.698] [piper] [info] Terminated piper
+
+2026-07-14 20:37:23 [WARNING] piper – ⚠ Invalid voice selection. Falling back to English Female.
+2026-07-14 20:37:24 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\c3aa0c89f53b7ff81f74.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\c3aa0c89f53b7ff81f74.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-14 20:37:25 [INFO] piper – Piper subprocess return code=0
+2026-07-14 20:37:25 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\c3aa0c89f53b7ff81f74.wav
+
+2026-07-14 20:37:25 [INFO] piper – Piper stderr=[2026-07-14 20:37:25.328] [piper] [info] Loaded voice in 0.9979904 second(s)
+[2026-07-14 20:37:25.363] [piper] [info] Initialized piper
+[2026-07-14 20:37:25.596] [piper] [info] Real-time factor: 0.2527984588623047 (infer=0.187839 sec, audio=0.7430385487528345 sec)
+[2026-07-14 20:37:25.596] [piper] [info] Terminated piper
+
+2026-07-14 20:38:08 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\df1718bbdc002f2f5076.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\df1718bbdc002f2f5076.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-14 20:38:10 [INFO] piper – Piper subprocess return code=0
+2026-07-14 20:38:10 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\df1718bbdc002f2f5076.wav
+
+2026-07-14 20:38:10 [INFO] piper – Piper stderr=[2026-07-14 20:38:09.647] [piper] [info] Loaded voice in 0.9416106 second(s)
+[2026-07-14 20:38:09.739] [piper] [info] Initialized piper
+[2026-07-14 20:38:10.313] [piper] [info] Real-time factor: 0.5873685085227273 (infer=0.5250888 sec, audio=0.893968253968254 sec)
+[2026-07-14 20:38:10.313] [piper] [info] Terminated piper
+
+2026-07-14 20:44:17 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-14 20:44:17 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:44:17 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:44:17 [ERROR] piper – Piper subprocess exception – UnicodeEncodeError
+Traceback (most recent call last):
+  File "D:\SLA\Smart_Legal_Assistance\src\text_to_speech.py", line 349, in _run_piper_once
+    time.sleep(0.1)
+                 ^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1622, in _communicate
+    self._stdin_write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1143, in _stdin_write
+    self.stdin.write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2696' in position 0: character maps to <undefined>
+
+2026-07-14 20:44:17 [WARNING] piper – ⚠ Voice generation failed. The chatbot will continue normally.
+2026-07-14 20:44:37 [INFO] piper – Piper install check: piper.exe (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: espeak-ng-data/ (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: Voice Model (.onnx) (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: Voice Config (.onnx.json) (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: onnxruntime.dll (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: onnxruntime_providers_shared.dll (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: piper_phonemize.dll (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Piper install check: espeak-ng.dll (✅ Found)
+2026-07-14 20:44:37 [INFO] piper – Executing Piper command: D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:44:37 [INFO] piper – Diagnostics: python=D:\SLA\Smart_Legal_Assistance\.venv\Scripts\python.exe cwd=D:\SLA\Smart_Legal_Assistance project_root=D:\SLA\Smart_Legal_Assistance piper_dir=D:\SLA\Smart_Legal_Assistance\piper piper_exe=D:\SLA\Smart_Legal_Assistance\piper\piper.exe voice_model=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx voice_config=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json wav=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\9fa9d6f9a5daabfa3ca7.wav
+2026-07-14 20:44:37 [ERROR] piper – Piper subprocess exception – UnicodeEncodeError
+Traceback (most recent call last):
+  File "D:\SLA\Smart_Legal_Assistance\src\text_to_speech.py", line 349, in _run_piper_once
+    time.sleep(0.1)
+                 ^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1622, in _communicate
+    self._stdin_write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1143, in _stdin_write
+    self.stdin.write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2696' in position 0: character maps to <undefined>
+
+2026-07-14 20:44:37 [WARNING] piper – ⚠ Voice generation failed. The chatbot will continue normally.
+2026-07-19 20:26:32 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\b116c2bb4d4670b17048.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\b116c2bb4d4670b17048.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-19 20:26:32 [ERROR] piper – Piper subprocess exception – UnicodeEncodeError
+Traceback (most recent call last):
+  File "D:\SLA\Smart_Legal_Assistance\src\text_to_speech.py", line 337, in generate_audio
+    result = subprocess.run(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1622, in _communicate
+    self._stdin_write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1143, in _stdin_write
+    self.stdin.write(input)
+  File "C:\Users\asimf\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2696' in position 0: character maps to <undefined>
+
+2026-07-19 20:26:32 [WARNING] piper – ⚠ Voice generation failed (unexpected error). The chatbot will continue normally.
+2026-07-19 20:46:59 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\05c267774b0275f49408.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\05c267774b0275f49408.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-19 20:47:04 [INFO] piper – Piper subprocess return code=0
+2026-07-19 20:47:04 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\05c267774b0275f49408.wav
+
+2026-07-19 20:47:04 [INFO] piper – Piper stderr=[2026-07-19 20:47:00.222] [piper] [info] Loaded voice in 0.2671247 second(s)
+[2026-07-19 20:47:00.255] [piper] [info] Initialized piper
+[2026-07-19 20:47:04.508] [piper] [info] Real-time factor: 0.06498007469945012 (infer=1.3119315 sec, audio=20.189750566893423 sec)
+[2026-07-19 20:47:04.508] [piper] [info] Terminated piper
+
+2026-07-19 20:48:04 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\ecafdc76cc73168faa11.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\ecafdc76cc73168faa11.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-19 20:48:06 [INFO] piper – Piper subprocess return code=0
+2026-07-19 20:48:06 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\ecafdc76cc73168faa11.wav
+
+2026-07-19 20:48:06 [INFO] piper – Piper stderr=[2026-07-19 20:48:04.876] [piper] [info] Loaded voice in 0.2301018 second(s)
+[2026-07-19 20:48:04.885] [piper] [info] Initialized piper
+[2026-07-19 20:48:06.190] [piper] [info] Real-time factor: 0.06285403965087061 (infer=1.2887102 sec, audio=20.503219954648525 sec)
+[2026-07-19 20:48:06.190] [piper] [info] Terminated piper
+
+2026-07-22 11:24:53 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\f1e2bf40e18b476c88e5.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\f1e2bf40e18b476c88e5.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-22 11:25:00 [INFO] piper – Piper subprocess return code=0
+2026-07-22 11:25:00 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\f1e2bf40e18b476c88e5.wav
+
+2026-07-22 11:25:00 [INFO] piper – Piper stderr=[2026-07-22 11:24:54.698] [piper] [info] Loaded voice in 0.371217 second(s)
+[2026-07-22 11:24:54.752] [piper] [info] Initialized piper
+[2026-07-22 11:25:00.426] [piper] [info] Real-time factor: 0.07743763834829409 (infer=0.7543023 sec, audio=9.74077097505669 sec)
+[2026-07-22 11:25:00.427] [piper] [info] Terminated piper
+
+2026-07-22 11:25:48 [INFO] piper – Piper executable path=D:\SLA\Smart_Legal_Assistance\piper\piper.exe
+Voice model path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx
+JSON config path=D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json
+Output WAV path=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\5dfd6af441a934a98469.wav
+Exact subprocess command=D:\SLA\Smart_Legal_Assistance\piper\piper.exe --model D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx --config D:\SLA\Smart_Legal_Assistance\piper\en_US-lessac-medium.onnx.json --output_file D:\SLA\Smart_Legal_Assistance\utils\audio_cache\5dfd6af441a934a98469.wav
+Working directory=D:\SLA\Smart_Legal_Assistance\piper
+2026-07-22 11:25:50 [INFO] piper – Piper subprocess return code=0
+2026-07-22 11:25:50 [INFO] piper – Piper stdout=D:\SLA\Smart_Legal_Assistance\utils\audio_cache\5dfd6af441a934a98469.wav
+
+2026-07-22 11:25:50 [INFO] piper – Piper stderr=[2026-07-22 11:25:48.683] [piper] [info] Loaded voice in 0.2921152 second(s)
+[2026-07-22 11:25:48.701] [piper] [info] Initialized piper
+[2026-07-22 11:25:50.207] [piper] [info] Real-time factor: 0.07815406945485473 (infer=1.4753787000000003 sec, audio=18.8778231292517 sec)
+[2026-07-22 11:25:50.207] [piper] [info] Terminated piper
+

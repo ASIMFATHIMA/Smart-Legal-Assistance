@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "created": "2026-06-21T13:15:45.732654",
+    "version": "1.0"
+  },
+  "summary": {
+    "analysis_date": "2026-06-21T13:17:32.857463",
+    "summary": {
+      "total_documents": 2,
+      "total_chunks": 41,
+      "embedding_dimension": 384
+    },
+    "clustering": {
+      "n_clusters": 4,
+      "silhouette_score": 0.16746336221694946,
+      "inertia": 11.761009216308594
+    },
+    "topics": {
+      "n_topics": 5,
+      "n_outliers": 0
+    },
+    "top_insights": [
+      {
+        "type": "dominant_cluster",
+        "description": "Cluster 3 contains 13 documents (31.7%)"
+      },
+      {
+        "type": "dominant_topic",
+        "description": "Topic 2 appears in 13 documents (31.7%)"
+      },
+      {
+        "type": "pure_clusters",
+        "description": "2 clusters show high topic purity"
+      },
+      {
+        "type": "anomalies",
+        "description": "0 anomalous documents detected (0.0%)"
+      }
+    ]
+  }
+}

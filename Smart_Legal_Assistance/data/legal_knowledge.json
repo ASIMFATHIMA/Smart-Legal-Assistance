@@ -1,0 +1,363 @@
+[
+    {
+        "ipc_section": "CRIMINAL LAW REFERENCE MATRIX Comparative Mapping of Indian Penal Code (IPC) Sections to Bharatiya Nyaya Sanhita (BNS), 2023",
+        "crime": "",
+        "description": "",
+        "ingredients": "",
+        "punishment": "",
+        "important_cases": "",
+        "bns_section": "",
+        "keywords": []
+    },
+    {
+        "ipc_section": "299",
+        "crime": "Culpable Homicide",
+        "description": "Causing death with intention or knowledge but not amounting to murder.",
+        "ingredients": "Death caused by act; intention or knowledge of causing death.",
+        "punishment": "Life imprisonment or 10 years + fine",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 101",
+        "keywords": [
+            "homicide",
+            "death"
+        ]
+    },
+    {
+        "ipc_section": "300",
+        "crime": "Murder",
+        "description": "Culpable homicide amounting to murder.",
+        "ingredients": "Intention to cause death or bodily injury sufficient to cause death.",
+        "punishment": "Death penalty or life imprisonment + fine",
+        "important_cases": "Virsa Singh v. State of Punjab (1958)",
+        "bns_section": "Sec. 103",
+        "keywords": [
+            "murder",
+            "killing"
+        ]
+    },
+    {
+        "ipc_section": "307",
+        "crime": "Attempt to Murder",
+        "description": "Attempting to cause death with intention or knowledge.",
+        "ingredients": "Intention, overt act, possibility of causing death.",
+        "punishment": "Up to 10 years or life imprisonment",
+        "important_cases": "State of Maharashtra v. Kashirao",
+        "bns_section": "Sec. 109",
+        "keywords": [
+            "attempt murder"
+        ]
+    },
+    {
+        "ipc_section": "319",
+        "crime": "Hurt",
+        "description": "Causing bodily pain, disease or infirmity.",
+        "ingredients": "Voluntary causing of pain or illness.",
+        "punishment": "Up to 1 year or fine",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 115",
+        "keywords": [
+            "hurt",
+            "injury"
+        ]
+    },
+    {
+        "ipc_section": "320",
+        "crime": "Grievous Hurt",
+        "description": "Serious bodily injuries specified under law.",
+        "ingredients": "Permanent loss of sight, hearing, fracture, disfiguration etc.",
+        "punishment": "Covered under Sec.325",
+        "important_cases": "Laxman v. State of Maharashtra (1974)",
+        "bns_section": "Sec. 117",
+        "keywords": [
+            "grievous hurt"
+        ]
+    },
+    {
+        "ipc_section": "325",
+        "crime": "Voluntarily Causing Grievous Hurt",
+        "description": "Intentionally causing grievous injuries.",
+        "ingredients": "Grievous injury with intention.",
+        "punishment": "Up to 7 years + fine",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 117",
+        "keywords": [
+            "fracture"
+        ]
+    },
+    {
+        "ipc_section": "326",
+        "crime": "Grievous Hurt by Dangerous Weapons",
+        "description": "Causing grievous hurt through dangerous means.",
+        "ingredients": "Dangerous weapon, poison, acid, fire etc.",
+        "punishment": "Life imprisonment or 10 years + fine",
+        "important_cases": "Jameel Hasan v. State (1974)",
+        "bns_section": "Sec. 124",
+        "keywords": [
+            "dangerous weapon"
+        ]
+    },
+    {
+        "ipc_section": "326A",
+        "crime": "Acid Attack",
+        "description": "Permanent or partial damage caused by acid.",
+        "ingredients": "Throwing acid intentionally.",
+        "punishment": "Minimum 10 years to life imprisonment + fine",
+        "important_cases": "Laxmi v. Union of India (2014)",
+        "bns_section": "Sec. 124(2)",
+        "keywords": [
+            "acid attack"
+        ]
+    },
+    {
+        "ipc_section": "326B",
+        "crime": "Attempt to Acid Attack",
+        "description": "Attempting to throw acid.",
+        "ingredients": "Attempt to cause burns or injury.",
+        "punishment": "5\u20137 years + fine",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 124(3)",
+        "keywords": [
+            "acid attack"
+        ]
+    },
+    {
+        "ipc_section": "339",
+        "crime": "Wrongful Restraint",
+        "description": "Obstructing lawful movement.",
+        "ingredients": "Voluntary obstruction.",
+        "punishment": "Punishment under Sec.341",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 126",
+        "keywords": [
+            "restraint"
+        ]
+    },
+    {
+        "ipc_section": "340",
+        "crime": "Wrongful Confinement",
+        "description": "Restricting movement within boundaries.",
+        "ingredients": "Confinement against will.",
+        "punishment": "Punishment under Sec.342",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 127",
+        "keywords": [
+            "confinement"
+        ]
+    },
+    {
+        "ipc_section": "351",
+        "crime": "Assault",
+        "description": "Gesture or preparation causing apprehension of criminal force.",
+        "ingredients": "Intention and apprehension.",
+        "punishment": "Up to 3 months + fine",
+        "important_cases": "Stephen v. Myers (1830)",
+        "bns_section": "Sec. 128",
+        "keywords": [
+            "assault"
+        ]
+    },
+    {
+        "ipc_section": "354",
+        "crime": "Outraging Modesty of Woman",
+        "description": "Use of criminal force intending to outrage modesty.",
+        "ingredients": "Assault or criminal force against woman.",
+        "punishment": "1\u20135 years + fine",
+        "important_cases": "State of Punjab v. Major Singh (1967)",
+        "bns_section": "Sec. 74",
+        "keywords": [
+            "modesty"
+        ]
+    },
+    {
+        "ipc_section": "354A",
+        "crime": "Sexual Harassment",
+        "description": "Unwelcome physical or verbal sexual conduct.",
+        "ingredients": "Sexual advances, remarks, pornography.",
+        "punishment": "Up to 3 years",
+        "important_cases": "Vishakha v. State of Rajasthan (1997)",
+        "bns_section": "Sec. 75",
+        "keywords": [
+            "harassment"
+        ]
+    },
+    {
+        "ipc_section": "354B",
+        "crime": "Disrobing Woman",
+        "description": "Assault intending to remove clothes.",
+        "ingredients": "Criminal force with intent to disrobe.",
+        "punishment": "3\u20137 years + fine",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 76",
+        "keywords": [
+            "disrobing"
+        ]
+    },
+    {
+        "ipc_section": "354C",
+        "crime": "Voyeurism",
+        "description": "Watching or recording private acts of woman.",
+        "ingredients": "Capturing images without consent.",
+        "punishment": "1\u20133 years (first), 3\u20137 years (subsequent)",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 77",
+        "keywords": [
+            "voyeurism"
+        ]
+    },
+    {
+        "ipc_section": "354D",
+        "crime": "Stalking",
+        "description": "Following or monitoring repeatedly.",
+        "ingredients": "Repeated contact or surveillance.",
+        "punishment": "Up to 3 years, subsequent 5 years",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 78",
+        "keywords": [
+            "stalking"
+        ]
+    },
+    {
+        "ipc_section": "361",
+        "crime": "Kidnapping from Lawful Guardianship",
+        "description": "Taking minor without guardian's consent.",
+        "ingredients": "Removal of minor or person of unsound mind.",
+        "punishment": "Up to 7 years + fine",
+        "important_cases": "Varadarajan v. State of Madras (1965)",
+        "bns_section": "Sec. 137",
+        "keywords": [
+            "kidnapping"
+        ]
+    },
+    {
+        "ipc_section": "362",
+        "crime": "Abduction",
+        "description": "Compelling a person by force or deceit.",
+        "ingredients": "Force or deceitful means.",
+        "punishment": "Depends on intention",
+        "important_cases": "Gurcharan Singh v. State (1972)",
+        "bns_section": "Sec. 138",
+        "keywords": [
+            "abduction"
+        ]
+    },
+    {
+        "ipc_section": "364",
+        "crime": "Kidnapping for Murder",
+        "description": "Kidnapping with intention to murder.",
+        "ingredients": "Kidnapping and intention to kill.",
+        "punishment": "Up to 10 years or life imprisonment",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 140",
+        "keywords": [
+            "kidnapping murder"
+        ]
+    },
+    {
+        "ipc_section": "364A",
+        "crime": "Kidnapping for Ransom",
+        "description": "Kidnapping for ransom or threat.",
+        "ingredients": "Demand for ransom.",
+        "punishment": "Death or life imprisonment",
+        "important_cases": "Malleshi v. State of Karnataka (2004)",
+        "bns_section": "Sec. 141",
+        "keywords": [
+            "ransom"
+        ]
+    },
+    {
+        "ipc_section": "375",
+        "crime": "Rape",
+        "description": "Sexual intercourse without valid consent.",
+        "ingredients": "Penetration without consent, coercion, fear, intoxication or victim below 18 years.",
+        "punishment": "Punishment prescribed under Sec.376",
+        "important_cases": "Mathura Case (1979), Nirbhaya Case (2012)",
+        "bns_section": "Sec. 63",
+        "keywords": [
+            "rape"
+        ]
+    },
+    {
+        "ipc_section": "376",
+        "crime": "Punishment for Rape",
+        "description": "Punishment for rape and aggravated rape.",
+        "ingredients": "Commission of rape under Sec. 375.",
+        "punishment": "10 years to life imprisonment",
+        "important_cases": "Mukesh v. State (NCT Delhi)",
+        "bns_section": "Sec. 64",
+        "keywords": [
+            "rape punishment"
+        ]
+    },
+    {
+        "ipc_section": "376A",
+        "crime": "Rape Causing Death or Vegetative State",
+        "description": "Rape causing death or permanent vegetative condition.",
+        "ingredients": "Rape followed by grievous consequences.",
+        "punishment": "Minimum 20 years to life or death penalty",
+        "important_cases": "Nirbhaya Case",
+        "bns_section": "Sec. 66",
+        "keywords": [
+            "rape causing death"
+        ]
+    },
+    {
+        "ipc_section": "376AB",
+        "crime": "Rape of Girl below 12 Years",
+        "description": "Sexual assault on child below 12 years.",
+        "ingredients": "Victim below 12 years.",
+        "punishment": "Minimum 20 years to life or death",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 65(2)",
+        "keywords": [
+            "child rape"
+        ]
+    },
+    {
+        "ipc_section": "376D",
+        "crime": "Gang Rape",
+        "description": "Rape by multiple persons.",
+        "ingredients": "Participation of more than one offender.",
+        "punishment": "20 years to life imprisonment",
+        "important_cases": "Nirbhaya Case",
+        "bns_section": "Sec. 70",
+        "keywords": [
+            "gang rape"
+        ]
+    },
+    {
+        "ipc_section": "376DA",
+        "crime": "Gang Rape of Girl below 16 Years",
+        "description": "Gang rape on minor below 16 years.",
+        "ingredients": "Victim under 16 years.",
+        "punishment": "Life imprisonment",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 70(2)",
+        "keywords": [
+            "minor gang rape"
+        ]
+    },
+    {
+        "ipc_section": "376DB",
+        "crime": "Gang Rape of Girl below 12 Years",
+        "description": "Gang rape on child below 12 years.",
+        "ingredients": "Victim below 12 years.",
+        "punishment": "Life imprisonment or death",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 70(2)",
+        "keywords": [
+            "child gang rape"
+        ]
+    },
+    {
+        "ipc_section": "376E",
+        "crime": "Repeat Offenders",
+        "description": "Repeat conviction for rape.",
+        "ingredients": "Previous rape conviction.",
+        "punishment": "Life imprisonment or death penalty",
+        "important_cases": "\u2014",
+        "bns_section": "Sec. 71",
+        "keywords": [
+            "repeat rape"
+        ]
+    }
+]

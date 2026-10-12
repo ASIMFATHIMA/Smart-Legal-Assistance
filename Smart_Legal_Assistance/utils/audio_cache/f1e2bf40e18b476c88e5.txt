@@ -1,0 +1,1 @@
+Hello! I am here to help you with legal documents. For general questions, I encountered an error: 'EnhancedRAGEngine' object has no attribute 'answer generator'.

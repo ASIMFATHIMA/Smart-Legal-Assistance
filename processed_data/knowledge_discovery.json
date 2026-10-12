@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "created": "2026-06-21T13:15:45.732654",
+    "version": "1.0"
+  },
+  "results": {
+    "cluster_summaries": {
+      "0": {
+        "cluster_id": 0,
+        "size": 9,
+        "percentage": 21.951219512195124,
+        "topic_distribution": {
+          "2": {
+            "count": 9,
+            "percentage": 100.0
+          }
+        },
+        "dominant_topic": 2,
+        "keywords": [
+          "statutory",
+          "matrix",
+          "victim",
+          "offence",
+          "mandate",
+          "criminal",
+          "reference",
+          "police",
+          "court",
+          "accuse"
+        ],
+        "avg_text_length": 496.77777777777777,
+        "sample_doc_idx": 28
+      },
+      "1": {
+        "cluster_id": 1,
+        "size": 10,
+        "percentage": 24.390243902439025,
+        "topic_distribution": {
+          "0": {
+            "count": 3,
+            "percentage": 30.0
+          },
+          "3": {
+            "count": 3,
+            "percentage": 30.0
+          },
+          "4": {
+            "count": 4,
+            "percentage": 40.0
+          }
+        },
+        "dominant_topic": 4,
+        "keywords": [
+          "section",
+          "amendment",
+          "shall",
+          "indian",
+          "penal",
+          "under",
+          "follow",
+          "criminal",
+          "india",
+          "procedure"
+        ],
+        "avg_text_length": 490.1,
+        "sample_doc_idx": 0
+      },
+      "2": {
+        "cluster_id": 2,
+        "size": 9,
+        "percentage": 21.951219512195124,
+        "topic_distribution": {
+          "0": {
+            "count": 9,
+            "percentage": 100.0
+          }
+        },
+        "dominant_topic": 0,
+        "keywords": [
+          "section",
+          "figure",
+          "letter",
+          "shall",
+          "substitute",
+          "procedure",
+          "criminal",
+          "penal",
+          "proviso",
+          "indian"
+        ],
+        "avg_text_length": 511.77777777777777,
+        "sample_doc_idx": 3
+      },
+      "3": {
+        "cluster_id": 3,
+        "size": 13,
+        "percentage": 31.70731707317073,
+        "topic_distribution": {
+          "1": {
+            "count": 5,
+            "percentage": 38.46153846153847
+          },
+          "2": {
+            "count": 4,
+            "percentage": 30.76923076923077
+          },
+          "3": {
+            "count": 3,
+            "percentage": 23.076923076923077
+          },
+          "4": {
+            "count": 1,
+            "percentage": 7.6923076923076925
+          }
+        },
+        "dominant_topic": 1,
+        "keywords": [
+          "imprisonment",
+          "shall",
+          "section",
+          "person",
+          "under",
+          "victim",
+          "remainder",
+          "extend",
+          "woman",
+          "natural"
+        ],
+        "avg_text_length": 505.15384615384613,
+        "sample_doc_idx": 4
+      }
+    },
+    "cluster_topic_relationship": {
+      "0": {
+        "2": 9
+      },
+      "1": {
+        "0": 3,
+        "3": 3,
+        "4": 4
+      },
+      "2": {
+        "0": 9
+      },
+      "3": {
+        "1": 5,
+        "2": 4,
+        "3": 3,
+        "4": 1
+      }
+    },
+    "legal_patterns": {
+      "high_purity_clusters": [
+        0,
+        2
+      ],
+      "anomalies": {},
+      "cluster_topic_distribution": {
+        "0": {
+          "2": 9
+        },
+        "1": {
+          "0": 3,
+          "3": 3,
+          "4": 4
+        },
+        "2": {
+          "0": 9
+        },
+        "3": {
+          "1": 5,
+          "2": 4,
+          "3": 3,
+          "4": 1
+        }
+      },
+      "cluster_summaries": {
+        "0": {
+          "cluster_id": 0,
+          "size": 9,
+          "percentage": 21.951219512195124,
+          "topic_distribution": {
+            "2": {
+              "count": 9,
+              "percentage": 100.0
+            }
+          },
+          "dominant_topic": 2,
+          "keywords": [
+            "statutory",
+            "matrix",
+            "victim",
+            "offence",
+            "mandate",
+            "criminal",
+            "reference",
+            "police",
+            "court",
+            "accuse"
+          ],
+          "avg_text_length": 496.77777777777777,
+          "sample_doc_idx": 28
+        },
+        "1": {
+          "cluster_id": 1,
+          "size": 10,
+          "percentage": 24.390243902439025,
+          "topic_distribution": {
+            "0": {
+              "count": 3,
+              "percentage": 30.0
+            },
+            "3": {
+              "count": 3,
+              "percentage": 30.0
+            },
+            "4": {
+              "count": 4,
+              "percentage": 40.0
+            }
+          },
+          "dominant_topic": 4,
+          "keywords": [
+            "section",
+            "amendment",
+            "shall",
+            "indian",
+            "penal",
+            "under",
+            "follow",
+            "criminal",
+            "india",
+            "procedure"
+          ],
+          "avg_text_length": 490.1,
+          "sample_doc_idx": 0
+        },
+        "2": {
+          "cluster_id": 2,
+          "size": 9,
+          "percentage": 21.951219512195124,
+          "topic_distribution": {
+            "0": {
+              "count": 9,
+              "percentage": 100.0
+            }
+          },
+          "dominant_topic": 0,
+          "keywords": [
+            "section",
+            "figure",
+            "letter",
+            "shall",
+            "substitute",
+            "procedure",
+            "criminal",
+            "penal",
+            "proviso",
+            "indian"
+          ],
+          "avg_text_length": 511.77777777777777,
+          "sample_doc_idx": 3
+        },
+        "3": {
+          "cluster_id": 3,
+          "size": 13,
+          "percentage": 31.70731707317073,
+          "topic_distribution": {
+            "1": {
+              "count": 5,
+              "percentage": 38.46153846153847
+            },
+            "2": {
+              "count": 4,
+              "percentage": 30.76923076923077
+            },
+            "3": {
+              "count": 3,
+              "percentage": 23.076923076923077
+            },
+            "4": {
+              "count": 1,
+              "percentage": 7.6923076923076925
+            }
+          },
+          "dominant_topic": 1,
+          "keywords": [
+            "imprisonment",
+            "shall",
+            "section",
+            "person",
+            "under",
+            "victim",
+            "remainder",
+            "extend",
+            "woman",
+            "natural"
+          ],
+          "avg_text_length": 505.15384615384613,
+          "sample_doc_idx": 4
+        }
+      }
+    },
+    "insights": [
+      {
+        "type": "dominant_cluster",
+        "cluster_id": 3,
+        "size": 13,
+        "percentage": 31.70731707317073,
+        "description": "Cluster 3 contains 13 documents (31.7%)"
+      },
+      {
+        "type": "dominant_topic",
+        "topic_id": 2,
+        "count": 13,
+        "percentage": 31.70731707317073,
+        "description": "Topic 2 appears in 13 documents (31.7%)"
+      },
+      {
+        "type": "pure_clusters",
+        "count": 2,
+        "cluster_ids": [
+          0,
+          2
+        ],
+        "description": "2 clusters show high topic purity"
+      },
+      {
+        "type": "anomalies",
+        "count": 0,
+        "percentage": 0.0,
+        "description": "0 anomalous documents detected (0.0%)"
+      }
+    ]
+  }
+}
